@@ -1,0 +1,10 @@
+Grasshopper eats Grass
+Lizard eats Grasshopper
+Hawk eats Grasshopper
+Hawk eats Lizard
+Hawk eats Rabbit
+Hawk eats Mouse
+Hawk eats Snake
+Rabbit eats Grass
+Snake eats Mouse
+Mouse eats Grass

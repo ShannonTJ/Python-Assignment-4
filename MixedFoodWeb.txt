@@ -1,0 +1,28 @@
+Grasshopper eats Terrestrial plants
+Harvest mouse eats Grasshopper
+Harvest mouse eats Terrestrial plants
+Hawk eats Harvest mouse
+Hawk eats Rat
+Hawk eats Shrew
+Hawk eats Vole
+Heron eats Shrimp
+Heron eats Smelt
+Mallard eats Grasshopper
+Mallard eats Terrestrial plants
+Mallard eats Shrimp
+Owl eats Rat
+Owl eats Sparrow
+Owl eats Mallard
+Owl eats Sandpiper
+Rat eats Grasshopper
+Rat eats Terrestrial plants
+Rat eats Sparrow
+Sandpiper eats Shrimp
+Shrew eats Grasshopper
+Shrimp eats Aquatic plants
+Smelt eats Aquatic plants
+Smelt eats Shrimp
+Sparrow eats Grasshopper
+Sparrow eats Terrestrial plants
+Vole eats Terrestrial plants
+Vole eats Grasshopper
